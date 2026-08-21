@@ -19,6 +19,6 @@ int lengthOfLongestSubstring(string s)
         map[symbol] = index;
     }
     return maxString;
-}
+}       
 
 // me costó, lo admito me tocó buscar qué era el método sliding window, pero luego de entender, me salió fácil codificarlo
